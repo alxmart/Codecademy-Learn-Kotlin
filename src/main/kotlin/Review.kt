@@ -1,6 +1,7 @@
 // Add your code below
 fun main() {
-    println(2022 - 1970)
+    //println(2022 - 1970)
+    println("Age: ${2022-1970}")
     println("A expectativa é a mãe da merda !")
     // não quero comentar
 }
