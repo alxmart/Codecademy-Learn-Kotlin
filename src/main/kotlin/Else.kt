@@ -1,5 +1,5 @@
 fun main() {
-    var saleHappening = false
+    var saleHappening = true
     var price: Int
     // Write your code below
     if (saleHappening) {

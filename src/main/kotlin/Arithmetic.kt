@@ -13,6 +13,3 @@ fun main() {
     var finalAmount = total * tip + total
     println(finalAmount)
 }
-
-
-

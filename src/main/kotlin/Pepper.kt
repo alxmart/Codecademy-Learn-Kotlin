@@ -17,6 +17,4 @@ fun main() {
 
     println("A pepper with $sHU Scoville Heat Units has a $pungency pungency.")
 
-
-
 }
