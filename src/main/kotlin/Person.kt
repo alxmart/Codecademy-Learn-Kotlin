@@ -1,5 +1,9 @@
-// Write your class below
-class Person(val name: String, val age: Int,    val favoriteColor: String)
+
+class Person (
+    val name: String,
+    val age: Int,
+    val favoriteColor: String
+)
 
 fun main() {
     // Create your instances below
