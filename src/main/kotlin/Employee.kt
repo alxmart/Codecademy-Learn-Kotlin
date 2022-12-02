@@ -1,3 +1,4 @@
+
 class Employee(val firstName: String, val lastName: String, val yearsWorked: Int) {
 
     val fullName = "$firstName $lastName"
