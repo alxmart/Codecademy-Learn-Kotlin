@@ -4,6 +4,4 @@ fun main() {
 
     println(codeysMap)
 
-
-
 }
